@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Silvia898/Ciencia_datos_ia/main/Banner.png" alt="Banner de Silvia Valdez" width="100%">
+  <img src="https://raw.githubusercontent.com/Silvia898/Silvia898/main/Banner.png" alt="Banner de Silvia Valdez" width="100%">
 </p>
+
 
 # 👋 ¡Hola! Soy Silvia Valdez
 
